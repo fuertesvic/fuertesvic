@@ -3,11 +3,11 @@
 - 😍 I find coding a very interesting and fun way to solve problems in a creative way and that's why I love it. 
 - 🦾 I love learning new things and also helping others when I can
 - 🌱 I’m currently learning Linux, SQL, Git and Go (among others) through an on-line plaform (bootcamp-like) at @Boot.dev
-- 💞️ I’m looking to collaborate on any kind of coding challenges or projects for begginners -- currently I am working on a couple of them
+- 💞️ Currently I am working on a couple of beginner -level projects - you can see them below. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: "Fuerte" means strong in spanish, but i'm not trying to flex anything, it's just my surname! :P (I also like bad jokes XD)
 - 🛠️ I am looking for a programmer entry level job
-- ✔  You can find my education, experience and other personal info in my Linkedin profile: https://www.linkedin.com/in/victor-fuertesc
+- ✔  You can find my education, experience and personal info in my Linkedin page: https://www.linkedin.com/in/victor-fuertesc
 - 📫 How to reach me? --> fuertesvic@gmail.com <-- is the way!
 
 <!---
