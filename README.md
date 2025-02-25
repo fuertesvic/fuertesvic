@@ -8,6 +8,7 @@
 - ⚡ Fun fact: "Fuerte" means strong in spanish, but i'm not trying to flex anything, it's just my surname! :P (I also like bad jokes XD)
 - 🛠️ I am looking for a programmer entry level job
 - ✔  You can find my education, experience and personal info in my Linkedin page: https://www.linkedin.com/in/victor-fuertesc
+- 📌 Based in Sant Cugat del Vallès, Barcelona, Spain
 - 📫 How to reach me? --> fuertesvic@gmail.com <-- is the way!
 
 <!---
