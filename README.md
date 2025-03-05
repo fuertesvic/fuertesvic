@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Tech World, Computer science in general and programming! -my favourite language is Python-
 - 😍 I find coding a very interesting and fun way to solve problems in a creative way and that's why I love it. 
 - 🦾 I love learning new things and also helping others when I can
-- 🌱 I’m currently learning Linux, SQL, Git and Go (among others) through an on-line plaform (bootcamp-like) at @Boot.dev
+- 🌱 I’m learning Linux, SQL, Git and Go (among others) through an on-line plaform at @Boot.dev. Currently studying -- Data Structures and Algorithms Course --
 - 💞️ Currently I am working on a couple of beginner -level projects - you can see them below. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: "Fuerte" means strong in spanish, but i'm not trying to flex anything, it's just my surname! :P (I also like bad jokes XD)
