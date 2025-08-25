@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fuertesvic, thank you for visiting!
-- 👀 I’m interested in the Tech World, Computer science in general and programming! -my favourite language is Python-
+- 👀 I’m interested in the Tech World, CS in general and programming! I lean towards back-end, and my favourite language is Python
 - 😍 I find coding a very interesting and fun way to solve problems in a creative way and that's why I love it. 
 - 🦾 I love learning new things and also helping others when I can
 - 🌱 I’m learning Linux, SQL, Git and Go (among others) through an on-line plaform at @Boot.dev. Currently studying -- Data Structures and Algorithms Course --
